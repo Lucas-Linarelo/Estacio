@@ -3,4 +3,7 @@
 - Criando as Cartas do Super Trunfo
 
 #### Ativadades temas 02
-- Criando menus switcc e condições de comparações compostas.
+- Criando menus switch e condições de comparações compostas.
+
+#### Ativadades temas 03
+- Jogo de xadrez com recursão e loops avançados.
