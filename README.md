@@ -1,9 +1,13 @@
 ### Repositório|Galho para matéria de Introdução à Programação de Computadores
-#### Ativadades temas 01
+
+#### Ativadades tema 01
 - Criando as Cartas do Super Trunfo
 
-#### Ativadades temas 02
+#### Ativadades tema 02
 - Criando menus switch e condições de comparações compostas.
 
-#### Ativadades temas 03
+#### Ativadades e Resumo tema 03
 - Jogo de xadrez com recursão e loops avançados.
+
+#### Ativadades e Resumo tema 04
+- Jogo de batalha naval com loops aninhados, matrizes, M. constantes e condicionais.
